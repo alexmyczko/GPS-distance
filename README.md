@@ -15,6 +15,10 @@ meters = getDistance(lat1, lon1, lat2, lon2)
 
 ``getDistance()`` returns distance between 2 points in meters
 
+### Example data to play with:
+
+http://download.slipo.eu/results/osm-to-csv/all/
+
 ## License
 
 The MIT License
