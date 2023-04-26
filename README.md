@@ -2,20 +2,20 @@
 
 Original source [(c) Chris Veness 2002-2011](http://www.movable-type.co.uk/scripts/latlong-vincenty.html)
 
-### Ported to:
+### Ported to
 * c
 * java
 * javascript 
 * python
 
-### Simple usage:
+### Simple usage
 ```
 meters = getDistance(lat1, lon1, lat2, lon2)
 ```
 
 ``getDistance()`` returns distance between 2 points in meters
 
-### Example data to play with:
+### Example data to play with
 
 http://download.slipo.eu/results/osm-to-csv/all/
 
